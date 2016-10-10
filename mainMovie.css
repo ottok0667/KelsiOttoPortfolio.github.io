@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+body {
+	
+	background: teal;
+	
+	}
+	
+	h1 {
+		
+	color: black;
+	font-size: 200%;
+	font-style: italic;
+		
+	}
+	
+	h3 {
+	
+	font: Times New Roman, Times, serif;
+	
+	}
+	
+	p {
+			color: black;
+		}
+
+
