@@ -2,7 +2,7 @@
 
 body {
 	
-	background: teal;
+	background: #668cff;
 	
 	}
 	
@@ -16,12 +16,14 @@ body {
 	
 	h3 {
 	
-	font: Times New Roman, Times, serif;
+	font-family: Georgia, serif;
 	
 	}
 	
 	p {
-			color: black;
-		}
+		
+	color: black;
+	
+	}
 
 
